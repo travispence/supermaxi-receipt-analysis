@@ -1,14 +1,14 @@
 Scripting Examples with NodeJS
 ================================
 
-###Description
+### Description
 
 The purpose of this project is to showcase how to parse multiple XML file with NodeJS to extract information and convert into a JSON file. 
 
 Supermaxi is a grocery chain in Ecuador, they emit their receipts in both XML and PDF format. In order to get a better feel for the prices of items and how they change I have writtent these scripts to ingest and analyze the information.
 
 
-###Running the Scripts
+### Running the Scripts
 
 The first script, `group-purchases.js`, ingests the data and will group all purchases by the field `descripcion` in the XML file. 
 
@@ -109,9 +109,13 @@ __Output__
 ```
 
 
-The second script, `xml-to-json.js`, takes the input xml files and outputs a new JSON file labeled their emission date containing only the information pertaining to the purchases. 
+The second script, `xml-to-json.js`, takes the input xml files and outputs a new JSON file labeled their emission date containing only the information pertaining to the purchases and outputs them in the `./out/` directory
 
 ``` node xml-to-json.js ```
+
+
+
+__Sample output file__ 
 
 ```
 "purchases": [

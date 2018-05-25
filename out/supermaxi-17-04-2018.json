@@ -1,0 +1,212 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "79416600261",
+      "codigoAuxiliar": "79416600261",
+      "descripcion": "CUNINGHAM WHISKY",
+      "cantidad": "1.0000",
+      "precioUnitario": "4.3839",
+      "descuento": "1.10",
+      "precioTotalSinImpuesto": "3.29",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "3.29",
+        "valor": "0.39"
+      }
+    },
+    {
+      "codigoPrincipal": "786102290003",
+      "codigoAuxiliar": "786102290003",
+      "descripcion": "INDAVES HUEVO GRANDE ESTUCHE",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.0100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.01",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.01",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260594",
+      "codigoAuxiliar": "260594",
+      "descripcion": "PIMIENTO ROJO GRANEL",
+      "cantidad": "0.5700",
+      "precioUnitario": "2.7719",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.58",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.58",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260647",
+      "codigoAuxiliar": "260647",
+      "descripcion": "TOMATE RINON GRANEL",
+      "cantidad": "0.3550",
+      "precioUnitario": "1.4085",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.50",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.50",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260371",
+      "codigoAuxiliar": "260371",
+      "descripcion": "CEBOLLA PAITENA BLANCA GRANEL",
+      "cantidad": "0.5250",
+      "precioUnitario": "1.1619",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.61",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.61",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786210113003",
+      "codigoAuxiliar": "786210113003",
+      "descripcion": "ORG ECUAORGANIC CULANTRO.",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.8400",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.84",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.84",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100026613",
+      "codigoAuxiliar": "786100026613",
+      "descripcion": "VERD HOR AJI JALAPENO.",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.7100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.71",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.71",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "261903",
+      "codigoAuxiliar": "261903",
+      "descripcion": "5 MUSLOS S/PIEL (T)",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.4500",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.45",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.45",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786101790124",
+      "codigoAuxiliar": "786101790124",
+      "descripcion": "SI CAFE GOLD",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.8125",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.81",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.81",
+        "valor": "0.10"
+      }
+    },
+    {
+      "codigoPrincipal": "7860094",
+      "codigoAuxiliar": "7860094",
+      "descripcion": "COCA COLA",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.5982",
+      "descuento": "0.04",
+      "precioTotalSinImpuesto": "0.56",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.56",
+        "valor": "0.07"
+      }
+    },
+    {
+      "codigoPrincipal": "260604",
+      "codigoAuxiliar": "260604",
+      "descripcion": "BANANO GRANEL",
+      "cantidad": "1.0600",
+      "precioUnitario": "1.0566",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.12",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.12",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786115390420",
+      "codigoAuxiliar": "786115390420",
+      "descripcion": "IT.CHORIZO CHORIPANA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.6200",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.62",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.62",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100010506",
+      "codigoAuxiliar": "786100010506",
+      "descripcion": "ALBRICIAS PAPAS FRITAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.0000",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.00",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.00",
+        "valor": "0.12"
+      }
+    }
+  ]
+}

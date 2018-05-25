@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autorizacion>
+    <estado>AUTORIZADO</estado>
+    <numeroAutorizacion>2403201801179001691900120251030000293490442010216</numeroAutorizacion>
+    <fechaAutorizacion>24/03/2018 17:47:24</fechaAutorizacion>
+    <comprobante>
+    <factura id="comprobante" version="1.1.0">
+        <infoTributaria>
+            <ambiente>2</ambiente>
+            <tipoEmision>1</tipoEmision>
+            <razonSocial>CORPORACION FAVORITA C.A.</razonSocial>
+            <nombreComercial>CORPORACION FAVORITA C.A.</nombreComercial>
+            <ruc>1790016919001</ruc>
+            <claveAcceso>2403201801179001691900120251030000293490442010216</claveAcceso>
+            <codDoc>01</codDoc>
+            <estab>025</estab>
+            <ptoEmi>103</ptoEmi>
+            <secuencial>000029349</secuencial>
+            <dirMatriz>AV. GENERAL ENRIQUEZ VIA COTOGCHOA</dirMatriz>
+        </infoTributaria>
+        <detalles>
+            <detalle>
+                <codigoPrincipal>786100029153</codigoPrincipal>
+                <codigoAuxiliar>786100029153</codigoAuxiliar>
+                <descripcion>MONTANES CAFE PUYANGO MOLIDO</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>4.0536</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>4.05</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>2</codigoPorcentaje>
+                        <tarifa>12</tarifa>
+                        <baseImponible>4.05</baseImponible>
+                        <valor>0.49</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>761303287089</codigoPrincipal>
+                <codigoAuxiliar>761303287089</codigoAuxiliar>
+                <descripcion>MAGGI LA ROJITA PASTA TOMATE MAGGI</descripcion>
+                <cantidad>2.0000</cantidad>
+                <precioUnitario>0.6964</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.39</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>2</codigoPorcentaje>
+                        <tarifa>12</tarifa>
+                        <baseImponible>1.39</baseImponible>
+                        <valor>0.17</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>786100283085</codigoPrincipal>
+                <codigoAuxiliar>786100283085</codigoAuxiliar>
+                <descripcion>PROCAT ORIGINAL</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>1.7500</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.75</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>2</codigoPorcentaje>
+                        <tarifa>12</tarifa>
+                        <baseImponible>1.75</baseImponible>
+                        <valor>0.21</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>786105320045</codigoPrincipal>
+                <codigoAuxiliar>786105320045</codigoAuxiliar>
+                <descripcion>ORG BIOHUERTO ZUQUINI AMARILLO</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>1.2800</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.28</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>1.28</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>786210343206</codigoPrincipal>
+                <codigoAuxiliar>786210343206</codigoAuxiliar>
+                <descripcion>GREENGARDEN CHAMPINONES REBANADOS</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>0.9900</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>0.99</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>0.99</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>260371</codigoPrincipal>
+                <codigoAuxiliar>260371</codigoAuxiliar>
+                <descripcion>CEBOLLA PAITENA BLANCA GRANEL</descripcion>
+                <cantidad>0.4750</cantidad>
+                <precioUnitario>1.3053</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>0.62</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>0.62</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>401408602048</codigoPrincipal>
+                <codigoAuxiliar>401408602048</codigoAuxiliar>
+                <descripcion>OETTINGER SUPER FORTE</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>2.2232</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>2.22</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>2</codigoPorcentaje>
+                        <tarifa>12</tarifa>
+                        <baseImponible>2.22</baseImponible>
+                        <valor>0.27</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>786104250020</codigoPrincipal>
+                <codigoAuxiliar>786104250020</codigoAuxiliar>
+                <descripcion>SX.FREJOL FRUTILLA</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>1.6100</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.61</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>1.61</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>786103190018</codigoPrincipal>
+                <codigoAuxiliar>786103190018</codigoAuxiliar>
+                <descripcion>LA PRADERA FREJOL NEGRO</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>1.3100</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.31</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>1.31</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>786210471035</codigoPrincipal>
+                <codigoAuxiliar>786210471035</codigoAuxiliar>
+                <descripcion>LANHER SNACKS HABAS PICANTES CERVECERAS</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>0.9500</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>0.95</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>0.95</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>3384400648</codigoPrincipal>
+                <codigoAuxiliar>3384400648</codigoAuxiliar>
+                <descripcion>SG BADIA CHILI MOLIDO</descripcion>
+                <cantidad>2.0000</cantidad>
+                <precioUnitario>1.6696</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>3.34</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>2</codigoPorcentaje>
+                        <tarifa>12</tarifa>
+                        <baseImponible>3.34</baseImponible>
+                        <valor>0.40</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>786210682091</codigoPrincipal>
+                <codigoAuxiliar>786210682091</codigoAuxiliar>
+                <descripcion>GRANANDINO QUINUA</descripcion>
+                <cantidad>1.0000</cantidad>
+                <precioUnitario>1.5100</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.51</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>1.51</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>260647</codigoPrincipal>
+                <codigoAuxiliar>260647</codigoAuxiliar>
+                <descripcion>TOMATE RINON GRANEL.</descripcion>
+                <cantidad>0.5600</cantidad>
+                <precioUnitario>1.8571</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.04</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>1.04</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+            <detalle>
+                <codigoPrincipal>260594</codigoPrincipal>
+                <codigoAuxiliar>260594</codigoAuxiliar>
+                <descripcion>PIMIENTO ROJO GRANEL</descripcion>
+                <cantidad>0.5550</cantidad>
+                <precioUnitario>2.4685</precioUnitario>
+                <descuento>0.00</descuento>
+                <precioTotalSinImpuesto>1.37</precioTotalSinImpuesto>
+                <impuestos>
+                    <impuesto>
+                        <codigo>2</codigo>
+                        <codigoPorcentaje>0</codigoPorcentaje>
+                        <tarifa>0.00</tarifa>
+                        <baseImponible>1.37</baseImponible>
+                        <valor>0.00</valor>
+                    </impuesto>
+                </impuestos>
+            </detalle>
+        </detalles>
+        <infoAdicional>
+            <campoAdicional nombre="DEDUCIBLE ALIMENTACION">19.47</campoAdicional>
+            <campoAdicional nombre="AHORRO AFILIADO">1.25</campoAdicional>
+            <campoAdicional nombre="AHORRO TOTAL">1.25</campoAdicional>
+        </infoAdicional>
+        <ds:Signature 
+            xmlns:ds="http://www.w3.org/2000/09/xmldsig#" 
+            xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature643084">
+            <ds:SignedInfo Id="Signature-SignedInfo740696">
+                <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+                <ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+                <ds:Reference Id="SignedPropertiesID379220" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature643084-SignedProperties478340">
+                    <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+                    <ds:DigestValue>Y0N0ju/yjIbHINtY2fkw3sii+XE=</ds:DigestValue>
+                </ds:Reference>
+                <ds:Reference URI="#Certificate1923263">
+                    <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+                    <ds:DigestValue>uhNtXTspLQW+yzBK1KtMvpsVldI=</ds:DigestValue>
+                </ds:Reference>
+                <ds:Reference Id="Reference-ID-148093" URI="#comprobante">
+                    <ds:Transforms>
+                        <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+                    </ds:Transforms>
+                    <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+                    <ds:DigestValue>/NFhSYC/ARcuIZXGv5g5ObnJ4Ag=</ds:DigestValue>
+                </ds:Reference>
+            </ds:SignedInfo>
+            <ds:SignatureValue Id="SignatureValue103067">JW2FLHZIna0ER/3GVxmeOrq+g6hBGqSmOqzG+CK8FB6iOKWGaSdkmHfSfuLZ/mON9ic6qrrOtZO4jOTkFfyandm5DYuCm8+23rrEKASYEKb+g7wJPeSjMdSfEJUMw9lHkXtNSunCV5bdJsE17M5oFljfwxvP6UUPMmOI1WtwAEeGi3/DZM+x02v0mtw+3HPlUxTsgItd3880I5pLjv9IaRry7KJOq5fxGdJTgbfk60MBb6/0MD9OPvegmQAqGO7Jp5aYOot6q7CvYAHhpDn2HY/zyg00/Q+2L6yh93sRHGCbGSmyZ/Rripwrlmj33cGO7Lt9tMgJwAF96JZlkfcNXw==</ds:SignatureValue>
+            <ds:KeyInfo Id="Certificate1923263">
+                <ds:X509Data>
+                    <ds:X509Certificate>MIIJozCCCIugAwIBAgIEVM3CTjANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNVBAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTAeFw0xNTA3MDIyMDIyMDVaFw0yMDA3MDIyMDUyMDVaMHcxCzAJBgNVBAYTAkVDMRswGQYDVQQKExJTRUNVUklUWSBEQVRBIFMuQS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEZMBcGA1UEAxMQSm9yZ2UgTHVpcyBCcmF2bzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALKiCId4D6j3Pr6UfvJ2U2cYVGiH306xHakx2z7WOoQlhY7Wkl215MaNgNtU2V9QgXDO4oyr03RI/L1b7tGjKb8CMRKM3Q4rWGg165BRNSvCuPl4ug5swSEg+31MBL6vXH5ZNDTR9UB1ID7YIBIPol9DyEfAIbk+eUYygaK1tPrre9Bnt8RdyfCdHiAI+NpkGo05+bfc7cV+dvg2I39oQyIHF2fVLpQA0EyT82vkYPVe5r5+k99ZkueBWKOfSl+SxwHNXiIz+Xo9Q3IGBmcjJ5x7lyvhO1pWADeU3Ng4bjqbmkvTp5Kh2sPf4/cN9X+AMGjvYH272oKHhKMjsCQ17kMCAwEAAaOCBhgwggYUMAsGA1UdDwQEAwIF4DBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcoGA1UdIASBwjCBvzA/BgorBgEEAYKmcgIKMDEwLwYIKwYBBQUHAgIwIxohQ2VydGlmaWNhZG8gZGUgTWllbWJybyBkZSBFbXByZXNhMHwGCisGAQQBgqZyAgQwbjBsBggrBgEFBQcCARZgaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9sZXllc19ub3JtYXRpdmFzL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJvIGRlIEVtcHJlc2EucGRmMCkGCisGAQQBgqZyAwoEGxMZQ09SUE9SQUNJT04gRkFWT1JJVEEgQy5BLjAdBgorBgEEAYKmcgMLBA8TDTE3OTAwMTY5MTkwMDEwGgYKKwYBBAGCpnIDAQQMEwoxNzA4MDMzMjUxMBoGCisGAQQBgqZyAwIEDBMKSm9yZ2UgTHVpczAVBgorBgEEAYKmcgMDBAcTBUJyYXZvMBgGCisGAQQBgqZyAwQEChMIQXJlbGxhbm8wJwYKKwYBBAGCpnIDBQQZExdHZXJlbnRlIGRlIENvbnRhYmlsaWRhZDA2BgorBgEEAYKmcgMHBCgTJkF2LiBHZW5lcmFsIEVucmlxdWV6IFMvTiB2aWEgQ290b2djaG9hMBYGCisGAQQBgqZyAyIECBMGMTcxMTA0MB0GCisGAQQBgqZyAwgEDxMNNTkzLTItMjk5NjUwMDAVBgorBgEEAYKmcgMJBAcTBVF1aXRvMBcGCisGAQQBgqZyAwwECRMHRWN1YWRvcjAdBgorBgEEAYKmcgMgBA8TDTAwMi0wMDEtMDAwMDAwEwYKKwYBBAGCpnIDIQQFEwNQRlgwHgYDVR0RBBcwFYETamJyYXZvQGZhdm9yaXRhLmNvbTCCAnkGA1UdHwSCAnAwggJsMIICaKCCAmSgggJghj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwhoHUbGRhcDovL2RpcmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL2NuPUNSTDc3LGNuPUFVVE9SSURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMFNVQiUyMFNFQ1VSSVRZJTIwREFUQSxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTixvPVNFQ1VSSVRZJTIwREFUQSUyMFMuQS4sYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGgZ5odHRwczovL2RpcmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL35jcmwvYXV0b3JpZGFkX2RlX2NlcnRpZmljYWNpb25fc3ViX3NlY3VyaXR5X2RhdGFfZW50aWRhZF9kZV9jZXJ0aWZpY2FjaW9uX2RlX2luZm9ybWFjaW9uX2N1cml0eV9kYXRhX3MuYS5fY19lY19jcmxmaWxlLmNybKSBpjCBozELMAkGA1UEBhMCRUMxGzAZBgNVBAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTEOMAwGA1UEAxMFQ1JMNzcwKwYDVR0QBCQwIoAPMjAxNTA3MDIyMDIyMDVagQ8yMDIwMDcwMjIwNTIwNVowHwYDVR0jBBgwFoAU9y9M4HXnYqN4llsGti5xO8xsP5AwHQYDVR0OBBYEFOXo6ZtZ8s4cv73CU0FcyLNZRlc7MAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCA6gwDQYJKoZIhvcNAQELBQADggEBAGXcb2kGmoYfew5X8gwgXYKheXVJE84gRv4fIaoeUwB4KAjAnColNkVfUGFOI/zsNxTfMZRMg2SlIrTu6KhCzXDj8Z4mHmoAs+UXkJaeMMOWVmzcI2IF1t+h9mlAyTiqQDKHe5Ry90XslritMdzylnbJKMk9MuW7jzwlVbqpO04OujwWLPfEQrdZQWTgaSjBBQha2gCpfsuAO7XJ/1b4F0wVoaXqX4yDT4Z+XtiwOu/si/ndHltvNSylzs78uXoXbYtq/40iRMDVgEd1RAUVWYV3v67Zq/8gT+2GisKO4CXQpB1dQaZJQKVDV5zlpFl20QDeKNttubwt2l+oCs5lrZQ=</ds:X509Certificate>
+                </ds:X509Data>
+                <ds:KeyValue>
+                    <ds:RSAKeyValue>
+                        <ds:Modulus>sqIIh3gPqPc+vpR+8nZTZxhUaIffTrEdqTHbPtY6hCWFjtaSXbXkxo2A21TZX1CBcM7ijKvTdEj8vVvu0aMpvwIxEozdDitYaDXrkFE1K8K4+Xi6DmzBISD7fUwEvq9cflk0NNH1QHUgPtggEg+iX0PIR8AhuT55RjKBorW0+ut70Ge3xF3J8J0eIAj42mQajTn5t9ztxX52+DYjf2hDIgcXZ9UulADQTJPza+Rg9V7mvn6T31mS54FYo59KX5LHAc1eIjP5ej1DcgYGZyMnnHuXK+E7WlYAN5Tc2DhuOpuaS9OnkqHaw9/j9w31f4AwaO9gfbvagoeEoyOwJDXuQw==</ds:Modulus>
+                        <ds:Exponent>AQAB</ds:Exponent>
+                    </ds:RSAKeyValue>
+                </ds:KeyValue>
+            </ds:KeyInfo>
+            <ds:Object Id="Signature643084-Object671545">
+                <etsi:QualifyingProperties Target="#Signature643084">
+                    <etsi:SignedProperties Id="Signature643084-SignedProperties478340">
+                        <etsi:SignedSignatureProperties>
+                            <etsi:SigningTime>2018-03-24T17:46:52-05:00</etsi:SigningTime>
+                            <etsi:SigningCertificate>
+                                <etsi:Cert>
+                                    <etsi:CertDigest>
+                                        <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+                                        <ds:DigestValue>ZiWUKgzjuUIO8wO9EDiP8ZClp64=</ds:DigestValue>
+                                    </etsi:CertDigest>
+                                    <etsi:IssuerSerial>
+                                        <ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName>
+                                        <ds:X509SerialNumber>1422770766</ds:X509SerialNumber>
+                                    </etsi:IssuerSerial>
+                                </etsi:Cert>
+                            </etsi:SigningCertificate>
+                        </etsi:SignedSignatureProperties>
+                        <etsi:SignedDataObjectProperties>
+                            <etsi:DataObjectFormat ObjectReference="#Reference-ID-148093">
+                                <etsi:Description>comprobante</etsi:Description>
+                                <etsi:MimeType>text/xml</etsi:MimeType>
+                            </etsi:DataObjectFormat>
+                        </etsi:SignedDataObjectProperties>
+                    </etsi:SignedProperties>
+                </etsi:QualifyingProperties>
+            </ds:Object>
+        </ds:Signature>
+    </factura>
+    </comprobante>
+</autorizacion>

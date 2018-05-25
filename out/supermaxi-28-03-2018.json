@@ -1,0 +1,132 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "786104253999",
+      "codigoAuxiliar": "786104253999",
+      "descripcion": "SX.MANI SALADO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.3839",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.38",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.38",
+        "valor": "0.17"
+      }
+    },
+    {
+      "codigoPrincipal": "260375",
+      "codigoAuxiliar": "260375",
+      "descripcion": "CEBOLLA PAITENA ROJA GRANEL",
+      "cantidad": "0.3950",
+      "precioUnitario": "1.4430",
+      "descuento": "0.11",
+      "precioTotalSinImpuesto": "0.46",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.46",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260647",
+      "codigoAuxiliar": "260647",
+      "descripcion": "TOMATE RINON GRANEL.",
+      "cantidad": "0.4650",
+      "precioUnitario": "1.8495",
+      "descuento": "0.17",
+      "precioTotalSinImpuesto": "0.69",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.69",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "261603",
+      "codigoAuxiliar": "261603",
+      "descripcion": "PAPA GRUESA",
+      "cantidad": "0.4800",
+      "precioUnitario": "0.7500",
+      "descuento": "0.07",
+      "precioTotalSinImpuesto": "0.29",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.29",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786210471034",
+      "codigoAuxiliar": "786210471034",
+      "descripcion": "LANHER SNACKS HABAS PICANTES CERVECERAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.6400",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.64",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.64",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "7860051",
+      "codigoAuxiliar": "7860051",
+      "descripcion": "CHOCOCAKE                         .",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.5982",
+      "descuento": "0.15",
+      "precioTotalSinImpuesto": "0.45",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.45",
+        "valor": "0.05"
+      }
+    },
+    {
+      "codigoPrincipal": "786104460222",
+      "codigoAuxiliar": "786104460222",
+      "descripcion": "ICAPEB CARAMELO TAMARINDO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.6429",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.64",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.64",
+        "valor": "0.20"
+      }
+    },
+    {
+      "codigoPrincipal": "786211550007",
+      "codigoAuxiliar": "786211550007",
+      "descripcion": "CORFRUIT PASAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.9900",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.99",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.99",
+        "valor": "0.00"
+      }
+    }
+  ]
+}

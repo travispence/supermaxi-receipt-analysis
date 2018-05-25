@@ -1,0 +1,84 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "260647",
+      "codigoAuxiliar": "260647",
+      "descripcion": "TOMATE RINON GRANEL",
+      "cantidad": "0.7050",
+      "precioUnitario": "1.3759",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.97",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.97",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260370",
+      "codigoAuxiliar": "260370",
+      "descripcion": "CEB.PAITE.BLANCA EMPACADA",
+      "cantidad": "0.6600",
+      "precioUnitario": "1.5455",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.02",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.02",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "269577",
+      "codigoAuxiliar": "269577",
+      "descripcion": "CARNE MOLIDA TIPO I 14-15% 1KG RES",
+      "cantidad": "1.0000",
+      "precioUnitario": "3.2000",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "3.20",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "3.20",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260589",
+      "codigoAuxiliar": "260589",
+      "descripcion": "PIMIENTO GRANEL",
+      "cantidad": "0.4100",
+      "precioUnitario": "1.2439",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.51",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.51",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260594",
+      "codigoAuxiliar": "260594",
+      "descripcion": "PIMIENTO ROJO GRANEL",
+      "cantidad": "0.3600",
+      "precioUnitario": "1.8056",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.65",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.65",
+        "valor": "0.00"
+      }
+    }
+  ]
+}

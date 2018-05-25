@@ -1,0 +1,52 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "269054",
+      "codigoAuxiliar": "269054",
+      "descripcion": "S.MOLIDA TIPO I 14-15% RES..",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.0500",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.05",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.05",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786102580497",
+      "codigoAuxiliar": "786102580497",
+      "descripcion": "CHIVERIA YOGUR DURAZNO",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.6600",
+      "descuento": "0.13",
+      "precioTotalSinImpuesto": "0.53",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.53",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786107170008",
+      "codigoAuxiliar": "786107170008",
+      "descripcion": "LA TRONCAL AZUCAR MORENA",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.9600",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.96",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.96",
+        "valor": "0.00"
+      }
+    }
+  ]
+}

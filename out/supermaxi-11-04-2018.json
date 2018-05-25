@@ -1,0 +1,228 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "786104250196",
+      "codigoAuxiliar": "786104250196",
+      "descripcion": "SX.LENTEJA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.8500",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.85",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.85",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786102552224",
+      "codigoAuxiliar": "786102552224",
+      "descripcion": "YA HARINA",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.0700",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.07",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.07",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786102291023",
+      "codigoAuxiliar": "786102291023",
+      "descripcion": "GUSTADINA ARROZ VITAMINIZADO",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.4400",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.44",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.44",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786102290003",
+      "codigoAuxiliar": "786102290003",
+      "descripcion": "INDAVES HUEVO GRANDE ESTUCHE",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.0100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.01",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.01",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786211924075",
+      "codigoAuxiliar": "786211924075",
+      "descripcion": "PINANDRO PASTA DE TOMATE DOYPACK",
+      "cantidad": "2.0000",
+      "precioUnitario": "0.9911",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.98",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.98",
+        "valor": "0.24"
+      }
+    },
+    {
+      "codigoPrincipal": "786102120084",
+      "codigoAuxiliar": "786102120084",
+      "descripcion": "ILE ACHIOTE SAZONADOR",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.8304",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.83",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.83",
+        "valor": "0.10"
+      }
+    },
+    {
+      "codigoPrincipal": "786100791336",
+      "codigoAuxiliar": "786100791336",
+      "descripcion": "ORIENTAL RAPIDITO RES PICANTE",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.8100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.81",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.81",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100171402",
+      "codigoAuxiliar": "786100171402",
+      "descripcion": "ALESOL SEMILLAS GIRASOL",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.5200",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.52",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.52",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "262357",
+      "codigoAuxiliar": "262357",
+      "descripcion": "ALITAS DE POLLO B.B.Q.(T)",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.5000",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.50",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "2.50",
+        "valor": "0.30"
+      }
+    },
+    {
+      "codigoPrincipal": "786100283085",
+      "codigoAuxiliar": "786100283085",
+      "descripcion": "PROCAT ORIGINAL",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.7500",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.75",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.75",
+        "valor": "0.21"
+      }
+    },
+    {
+      "codigoPrincipal": "770201038125",
+      "codigoAuxiliar": "770201038125",
+      "descripcion": "AXION LIMON",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.7143",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.71",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.71",
+        "valor": "0.09"
+      }
+    },
+    {
+      "codigoPrincipal": "770219100088",
+      "codigoAuxiliar": "770219100088",
+      "descripcion": "REXONA JAB BAMBOO FRESH",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.8125",
+      "descuento": "0.37",
+      "precioTotalSinImpuesto": "1.45",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.45",
+        "valor": "0.17"
+      }
+    },
+    {
+      "codigoPrincipal": "770213762865",
+      "codigoAuxiliar": "770213762865",
+      "descripcion": "CLOROX ROPA COLORE VIVOS",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.0268",
+      "descuento": "0.61",
+      "precioTotalSinImpuesto": "1.42",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.42",
+        "valor": "0.17"
+      }
+    },
+    {
+      "codigoPrincipal": "4469500084",
+      "codigoAuxiliar": "4469500084",
+      "descripcion": "FACUNDO FREJOL NEGRO",
+      "cantidad": "3.0000",
+      "precioUnitario": "1.2768",
+      "descuento": "1.28",
+      "precioTotalSinImpuesto": "2.55",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "2.55",
+        "valor": "0.31"
+      }
+    }
+  ]
+}

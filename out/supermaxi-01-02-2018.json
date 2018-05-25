@@ -1,0 +1,212 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "786106350315",
+      "codigoAuxiliar": "786106350315",
+      "descripcion": "YA HARINA SIN POLVO DE HORNEAR",
+      "cantidad": "1.0000",
+      "precioUnitario": "3.2300",
+      "descuento": "0.97",
+      "precioTotalSinImpuesto": "2.26",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.26",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100010506",
+      "codigoAuxiliar": "786100010506",
+      "descripcion": "ALBRICIAS PAPAS FRITAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.0000",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.00",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.00",
+        "valor": "0.12"
+      }
+    },
+    {
+      "codigoPrincipal": "786210343126",
+      "codigoAuxiliar": "786210343126",
+      "descripcion": "GREENGARDEN AJI JALAPENO VERDE",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.7000",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.70",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.70",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100129186",
+      "codigoAuxiliar": "786100129186",
+      "descripcion": "MAGGI CALDO VERDURAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.1518",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.15",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.15",
+        "valor": "0.14"
+      }
+    },
+    {
+      "codigoPrincipal": "205070400890",
+      "codigoAuxiliar": "205070400890",
+      "descripcion": "H. CULANTRO",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.6900",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.69",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.69",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "761303287089",
+      "codigoAuxiliar": "761303287089",
+      "descripcion": "MAGGI LA ROJITA PASTA TOMATE MAGGI",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.6964",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.70",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.70",
+        "valor": "0.08"
+      }
+    },
+    {
+      "codigoPrincipal": "786104250629",
+      "codigoAuxiliar": "786104250629",
+      "descripcion": "SX.PH ECONOMICO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.1339",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.13",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.13",
+        "valor": "0.14"
+      }
+    },
+    {
+      "codigoPrincipal": "786117550001",
+      "codigoAuxiliar": "786117550001",
+      "descripcion": "ELITE SERVILLETA ECONOMICA",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.3661",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.37",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.37",
+        "valor": "0.04"
+      }
+    },
+    {
+      "codigoPrincipal": "786100172282",
+      "codigoAuxiliar": "786100172282",
+      "descripcion": "ALESOL ACEITE",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.9300",
+      "descuento": "0.19",
+      "precioTotalSinImpuesto": "1.74",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.74",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "401408602030",
+      "codigoAuxiliar": "401408602030",
+      "descripcion": "OETTINGER WEISSBIER CERVEZA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.7768",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.78",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.78",
+        "valor": "0.21"
+      }
+    },
+    {
+      "codigoPrincipal": "786104250022",
+      "codigoAuxiliar": "786104250022",
+      "descripcion": "SX.QUINUA SG",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.1200",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.12",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.12",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786103190018",
+      "codigoAuxiliar": "786103190018",
+      "descripcion": "LA PRADERA FREJOL NEGRO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.3100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.31",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.31",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786104252174",
+      "codigoAuxiliar": "786104252174",
+      "descripcion": "SX.FREJOL NEGRO ENLATADO",
+      "cantidad": "2.0000",
+      "precioUnitario": "1.1786",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.36",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "2.36",
+        "valor": "0.28"
+      }
+    }
+  ]
+}

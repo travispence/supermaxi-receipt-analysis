@@ -1,0 +1,260 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "004469501800",
+      "codigoAuxiliar": "004469501800",
+      "descripcion": "PRODUCTO 004469501800",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.2768",
+      "descuento": "0.17",
+      "precioTotalSinImpuesto": "1.11",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.11",
+        "valor": "0.13"
+      }
+    },
+    {
+      "codigoPrincipal": "004469500084",
+      "codigoAuxiliar": "004469500084",
+      "descripcion": "PRODUCTO 004469500084",
+      "cantidad": "2.0000",
+      "precioUnitario": "1.2768",
+      "descuento": "0.35",
+      "precioTotalSinImpuesto": "2.21",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "2.21",
+        "valor": "0.26"
+      }
+    },
+    {
+      "codigoPrincipal": "000000260371",
+      "codigoAuxiliar": "000000260371",
+      "descripcion": "PRODUCTO 000000260371",
+      "cantidad": "0.7850",
+      "precioUnitario": "0.8662",
+      "descuento": "0.14",
+      "precioTotalSinImpuesto": "0.54",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.54",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "000000260589",
+      "codigoAuxiliar": "000000260589",
+      "descripcion": "PRODUCTO 000000260589",
+      "cantidad": "0.6700",
+      "precioUnitario": "1.0597",
+      "descuento": "0.14",
+      "precioTotalSinImpuesto": "0.57",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.57",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "000000260594",
+      "codigoAuxiliar": "000000260594",
+      "descripcion": "PRODUCTO 000000260594",
+      "cantidad": "0.5550",
+      "precioUnitario": "2.6306",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.46",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.46",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "000000261603",
+      "codigoAuxiliar": "000000261603",
+      "descripcion": "PRODUCTO 000000261603",
+      "cantidad": "1.3500",
+      "precioUnitario": "0.7407",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.00",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.00",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "205070400890",
+      "codigoAuxiliar": "205070400890",
+      "descripcion": "H. CULANTRO.",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.6900",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.69",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.69",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100600013",
+      "codigoAuxiliar": "786100600013",
+      "descripcion": "ESTRELLA ESP.MIXTA.",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.4375",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.44",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.44",
+        "valor": "0.05"
+      }
+    },
+    {
+      "codigoPrincipal": "786100674434",
+      "codigoAuxiliar": "786100674434",
+      "descripcion": "TOSTITOS FIESTA",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.0893",
+      "descuento": "0.31",
+      "precioTotalSinImpuesto": "1.78",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.78",
+        "valor": "0.21"
+      }
+    },
+    {
+      "codigoPrincipal": "786210763028",
+      "codigoAuxiliar": "786210763028",
+      "descripcion": "ALBRICIAS PAPAS FRITAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.4107",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.41",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.41",
+        "valor": "0.17"
+      }
+    },
+    {
+      "codigoPrincipal": "786101900005",
+      "codigoAuxiliar": "786101900005",
+      "descripcion": "SELECTO HABAS DORADAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.1071",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.11",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "2.11",
+        "valor": "0.25"
+      }
+    },
+    {
+      "codigoPrincipal": "770213724482",
+      "codigoAuxiliar": "770213724482",
+      "descripcion": "BON BRIL LIMPIATODO ANTIBACT",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.3393",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "2.34",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "2.34",
+        "valor": "0.28"
+      }
+    },
+    {
+      "codigoPrincipal": "786100026613",
+      "codigoAuxiliar": "786100026613",
+      "descripcion": "VERD HOR AJI JALAPENO.",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.7100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.71",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.71",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786104252699",
+      "codigoAuxiliar": "786104252699",
+      "descripcion": "SX.TACOS MEZCLA DE QUESOS RALLADOS.",
+      "cantidad": "1.0000",
+      "precioUnitario": "3.7300",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "3.73",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "3.73",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786210343185",
+      "codigoAuxiliar": "786210343185",
+      "descripcion": "GREENGARDEN AGUACATE MADURO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.4400",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.44",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.44",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "000949700344",
+      "codigoAuxiliar": "000949700344",
+      "descripcion": "PRODUCTO 000949700344",
+      "cantidad": "1.0000",
+      "precioUnitario": "6.0268",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "6.03",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "6.03",
+        "valor": "0.72"
+      }
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "786100010506",
+      "codigoAuxiliar": "786100010506",
+      "descripcion": "ALBRICIAS PAPAS FRITAS",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.0000",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.00",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.00",
+        "valor": "0.12"
+      }
+    },
+    {
+      "codigoPrincipal": "262461",
+      "codigoAuxiliar": "262461",
+      "descripcion": "T.  FILETE PECHUGA  UNIDAD",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.5700",
+      "descuento": "0.16",
+      "precioTotalSinImpuesto": "1.41",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.41",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786101790007",
+      "codigoAuxiliar": "786101790007",
+      "descripcion": "SI CAFE GOLD",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.6071",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.61",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.61",
+        "valor": "0.19"
+      }
+    },
+    {
+      "codigoPrincipal": "786100026613",
+      "codigoAuxiliar": "786100026613",
+      "descripcion": "VERD HOR AJI JALAPENO.",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.7100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.71",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.71",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786210298055",
+      "codigoAuxiliar": "786210298055",
+      "descripcion": "LA VALERIA MIX PAIT. AL VACIO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.3100",
+      "descuento": "0.33",
+      "precioTotalSinImpuesto": "0.98",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.98",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260589",
+      "codigoAuxiliar": "260589",
+      "descripcion": "PIMIENTO GRANEL",
+      "cantidad": "0.5500",
+      "precioUnitario": "1.3818",
+      "descuento": "0.15",
+      "precioTotalSinImpuesto": "0.61",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.61",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100283085",
+      "codigoAuxiliar": "786100283085",
+      "descripcion": "PROCAT ORIGINAL",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.7500",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.75",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.75",
+        "valor": "0.21"
+      }
+    },
+    {
+      "codigoPrincipal": "786102290003",
+      "codigoAuxiliar": "786102290003",
+      "descripcion": "INDAVES HUEVO GRANDE ESTUCHE",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.0100",
+      "descuento": "0.20",
+      "precioTotalSinImpuesto": "1.81",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.81",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100256146",
+      "codigoAuxiliar": "786100256146",
+      "descripcion": "3 CHANCITOS MANTECA",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.9300",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.93",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.93",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786118640013",
+      "codigoAuxiliar": "786118640013",
+      "descripcion": "HADA SERVILLETA DELUXE",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.5268",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.53",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.53",
+        "valor": "0.06"
+      }
+    },
+    {
+      "codigoPrincipal": "786100791335",
+      "codigoAuxiliar": "786100791335",
+      "descripcion": "ORIENTAL RAPIDITO RES / PICANTE",
+      "cantidad": "3.0000",
+      "precioUnitario": "0.5700",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.71",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.71",
+        "valor": "0.00"
+      }
+    }
+  ]
+}

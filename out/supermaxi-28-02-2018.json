@@ -1,0 +1,308 @@
+{
+  "purchases": [
+    {
+      "codigoPrincipal": "786210341065",
+      "codigoAuxiliar": "786210341065",
+      "descripcion": "KANY CRUNCHY BALLS QUINUA/ ESPINACA",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.4018",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.40",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.40",
+        "valor": "0.05"
+      }
+    },
+    {
+      "codigoPrincipal": "401408602044",
+      "codigoAuxiliar": "401408602044",
+      "descripcion": "OETTINGER SCHWARZ CERVEZA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.7768",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.78",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.78",
+        "valor": "0.21"
+      }
+    },
+    {
+      "codigoPrincipal": "786210343126",
+      "codigoAuxiliar": "786210343126",
+      "descripcion": "GREENGARDEN AJI JALAPENO VERDE",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.7000",
+      "descuento": "0.14",
+      "precioTotalSinImpuesto": "0.56",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.56",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786100470008",
+      "codigoAuxiliar": "786100470008",
+      "descripcion": "LA QUITENA HABA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.6339",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.63",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.63",
+        "valor": "0.20"
+      }
+    },
+    {
+      "codigoPrincipal": "786102600122",
+      "codigoAuxiliar": "786102600122",
+      "descripcion": "TOSCANA FIDEO PLUMA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.1500",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.15",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.15",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260647",
+      "codigoAuxiliar": "260647",
+      "descripcion": "TOMATE RINON GRANEL",
+      "cantidad": "0.4800",
+      "precioUnitario": "1.3750",
+      "descuento": "0.13",
+      "precioTotalSinImpuesto": "0.53",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.53",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786211899026",
+      "codigoAuxiliar": "786211899026",
+      "descripcion": "ECUAVERDURAS CULANTRO",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.6800",
+      "descuento": "0.14",
+      "precioTotalSinImpuesto": "0.54",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.54",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260371",
+      "codigoAuxiliar": "260371",
+      "descripcion": "CEBOLLA PAITENA BLANCA GRANEL",
+      "cantidad": "0.4200",
+      "precioUnitario": "1.3810",
+      "descuento": "0.12",
+      "precioTotalSinImpuesto": "0.46",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.46",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786104251366",
+      "codigoAuxiliar": "786104251366",
+      "descripcion": "SX.CLORO LIMON",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.5714",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.57",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.57",
+        "valor": "0.07"
+      }
+    },
+    {
+      "codigoPrincipal": "786100600355",
+      "codigoAuxiliar": "786100600355",
+      "descripcion": "ESTRELLA PANO HOGAR PAGUE 6 LLEVE 10",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.5982",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.60",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.60",
+        "valor": "0.19"
+      }
+    },
+    {
+      "codigoPrincipal": "786105760362",
+      "codigoAuxiliar": "786105760362",
+      "descripcion": "EMAC FUNDA BASURA AZUL",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.6964",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.70",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "0.70",
+        "valor": "0.08"
+      }
+    },
+    {
+      "codigoPrincipal": "786104865951",
+      "codigoAuxiliar": "786104865951",
+      "descripcion": "GIRASOL MARGARINA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.1100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.11",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.11",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "4469500213",
+      "codigoAuxiliar": "4469500213",
+      "descripcion": "FACUNDO FREJOL REFRITO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.5179",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.52",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.52",
+        "valor": "0.18"
+      }
+    },
+    {
+      "codigoPrincipal": "786104250020",
+      "codigoAuxiliar": "786104250020",
+      "descripcion": "SX.FREJOL FRUTILLA",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.6100",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.61",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.61",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786104250040",
+      "codigoAuxiliar": "786104250040",
+      "descripcion": "SX.CANGUIL AMARILLO",
+      "cantidad": "1.0000",
+      "precioUnitario": "0.7300",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "0.73",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "0.73",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "262357",
+      "codigoAuxiliar": "262357",
+      "descripcion": "ALITAS DE POLLO B.B.Q.(T)",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.9018",
+      "descuento": "0.00",
+      "precioTotalSinImpuesto": "1.90",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "2",
+        "tarifa": "12",
+        "baseImponible": "1.90",
+        "valor": "0.23"
+      }
+    },
+    {
+      "codigoPrincipal": "786210191011",
+      "codigoAuxiliar": "786210191011",
+      "descripcion": "SOLO ARROZ CANILLA GIGANTE ENVEJECIDO",
+      "cantidad": "1.0000",
+      "precioUnitario": "2.8700",
+      "descuento": "0.34",
+      "precioTotalSinImpuesto": "2.53",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "2.53",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "260604",
+      "codigoAuxiliar": "260604",
+      "descripcion": "BANANO GRANEL",
+      "cantidad": "1.2550",
+      "precioUnitario": "1.2112",
+      "descuento": "0.30",
+      "precioTotalSinImpuesto": "1.22",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.22",
+        "valor": "0.00"
+      }
+    },
+    {
+      "codigoPrincipal": "786211311131",
+      "codigoAuxiliar": "786211311131",
+      "descripcion": "HORTILISTO AGUACATE MADURO",
+      "cantidad": "1.0000",
+      "precioUnitario": "1.4900",
+      "descuento": "0.30",
+      "precioTotalSinImpuesto": "1.19",
+      "impuestos": {
+        "codigo": "2",
+        "codigoPorcentaje": "0",
+        "tarifa": "0.00",
+        "baseImponible": "1.19",
+        "valor": "0.00"
+      }
+    }
+  ]
+}
